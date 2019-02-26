@@ -1,1 +1,1 @@
-# aws-mon-script
+# aws-scripts-mon
